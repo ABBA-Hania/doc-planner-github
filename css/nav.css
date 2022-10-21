@@ -1,0 +1,26 @@
+#nav-logo{
+   height: 33px;
+   width: auto;
+    }
+    .navigation{
+       height: 70px;
+       max-width: 975px;
+       background-color: white;
+       display: flex;
+       justify-content: space-between;
+       flex-grow: 1;
+       align-items:  center;
+       margin: 0 auto;
+    }
+    .nav-items{
+        list-style: none;
+        display: flex;
+        }
+    .nav-link{
+        color: #ababab;
+        list-style: none;
+        display: flex;
+        text-decoration: none;
+       
+    }
+
